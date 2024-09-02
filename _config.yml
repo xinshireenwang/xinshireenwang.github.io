@@ -21,10 +21,10 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "XinWang.png"
+  avatar           : ".../images/XinWang.png"
   name             : "Xin Wang"
   bio              : "Ph.D. (she/her)"
-  pronouns           : "xin.wang@hec.ca"  
+  pronouns         : "xin.wang@hec.ca"  
   location         : "Montreal"
   employer         : "HEC Montreal (UdeM)"
   uri              : # URL
