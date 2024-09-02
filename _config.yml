@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Montreal"
-title                    : "Home"
+title                    : "Xin Wang/Personal Website"
 title_separator          : " "
 name                     : "Xin Wang"
 description              : "Ph.D. (she/her)"
@@ -21,7 +21,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "XinWang.png"
   name             : "Xin Wang"
   bio              : "Ph.D. (she/her)"
   pronouns           : "xin.wang@hec.ca"  
